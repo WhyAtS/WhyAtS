@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @WhyAtS
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 WhyAtS/WhyAtS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
